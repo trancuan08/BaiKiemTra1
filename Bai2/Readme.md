@@ -8,7 +8,8 @@
 
 ### Hình ảnh kết quả TC01
 
-![TC01](TC1.png)
+<img width="399" height="107" alt="TC1" src="https://github.com/user-attachments/assets/68d081dd-b78b-422d-bd01-e6eaa7706b73" />
+
 
 ---
 
@@ -20,7 +21,8 @@
 
 ### Hình ảnh kết quả TC02
 
-![TC02](TC2.png)
+<img width="384" height="91" alt="TC2" src="https://github.com/user-attachments/assets/ed05f2d6-fe2f-4977-883a-13ef551cf318" />
+
 
 ---
 
@@ -32,7 +34,8 @@
 
 ### Hình ảnh kết quả TC03
 
-![TC03](TC3.png)
+<img width="320" height="89" alt="TC3" src="https://github.com/user-attachments/assets/995711a1-c4ca-4af9-b7ce-6d432954c49c" />
+
 
 ---
 
@@ -44,7 +47,8 @@
 
 ### Hình ảnh kết quả TC04
 
-![TC04](TC4.png)
+<img width="436" height="419" alt="TC4" src="https://github.com/user-attachments/assets/6187e556-d8a3-47bf-aa2c-365516ca761f" />
+
 
 ---
 
@@ -56,7 +60,8 @@
 
 ### Hình ảnh kết quả TC05
 
-![TC05](TC5.png)
+<img width="407" height="272" alt="TC5" src="https://github.com/user-attachments/assets/8937dd41-53d8-41fa-a929-e33d58ad126c" />
+
 
 ---
 
