@@ -1,5 +1,6 @@
 ===TC01===
 <img width="1916" height="1032" alt="TC2 1" src="https://github.com/user-attachments/assets/669dac9d-75db-4944-95ce-37dcf4470517" />
+SAU KHI THU NHỎ
 <img width="1919" height="997" alt="TC2 1," src="https://github.com/user-attachments/assets/882a8e43-49ce-4d3c-8b58-d25bdaa61f49" />
 
 ===TC02===
@@ -13,4 +14,6 @@
 
 ===TC05===
 <img width="1157" height="713" alt="TC2 5" src="https://github.com/user-attachments/assets/369b2cf6-377d-4099-a9f5-5205b71f550d" />
+SAU KHI XOÁ
+<img width="1164" height="714" alt="TC2 5," src="https://github.com/user-attachments/assets/ee2e697f-68ac-4513-a9cf-3cac8f01e111" />
 
